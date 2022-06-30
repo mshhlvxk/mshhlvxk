@@ -1,4 +1,10 @@
 ### Hi there 👋
+#### Pronouns: he/him
+⚡ Fun fact: i have 4 friends, even though i make exploits. (no not exploits like follina you dumdum)
+
+I make roblox executors. Currently I'm working on an executor called RythmX.
+
+I want it to be the first ever open source APIless executor, so please contribte and commit maybe.
 
 <!--
 **mshhlvxk/mshhlvxk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
