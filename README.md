@@ -6,9 +6,6 @@ I make roblox executors. Currently I'm working on an executor called RythmX.
 
 I want it to be the first ever open source APIless executor, so please contribte and commit maybe.
 
-repos down below ⏬⏬
-
-no more executor source (i dont know how to manage stuff) ❤️
 <!--
 **mshhlvxk/mshhlvxk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
